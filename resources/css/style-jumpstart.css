@@ -1,0 +1,36 @@
+html {
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* Nav Bar Styles */
+
+.navbar-default .navbar-nav .active a {
+	background-color: transparent;
+	color: #399bd1;
+}
+
+.navbar-default .navbar-nav .active a:hover {
+	background-color: transparent;
+	color: #399bd1;
+}
+
+ul li a {
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+
+/* Jumbotron Section */
+
+div.jumbotron {
+	background-image: url('../images/jumbotron-bike.jpg');
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Monoton', cursive;
+
+}
+
+
